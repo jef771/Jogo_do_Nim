@@ -5,7 +5,7 @@
 
 Trabalho realizado para o curso Introdução à Ciência da Computação com Python Parte 1
 
-O programa foi originalmente feito em Python porém para respeitar as diretrizes do curso decidi fazer em C++
+O programa foi originalmente feito em Python porém para respeitar as diretrizes do curso decidi compartilhar o meu trabalho em C++
 
 Para jogar abra o prompt de comando entre no diretório e digite:
 
