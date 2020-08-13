@@ -7,7 +7,7 @@ Trabalho realizado para o curso Introdução à Ciência da Computação com Pyt
 
 O programa foi originalmente feito em Python porém para respeitar as diretrizes do curso decidi compartilhar o meu trabalho em C++
 
-Para jogar abra o prompt de comando entre no diretório e digite:
+Para jogar abra o prompt de comando, entre no diretório e digite:
 
 ```
 $ g++ -o jogo_do_nim jogo_do_nim.cpp
